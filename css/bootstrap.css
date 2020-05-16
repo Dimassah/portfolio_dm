@@ -3105,6 +3105,11 @@ fieldset:disabled a.btn {
     border-radius: .3rem
 }
 
+.par_color {
+    color: #854fee;
+    font-size: 18px;
+}
+
 .btn-group-sm>.btn,
 .btn-sm {
     padding: .25rem .5rem;
