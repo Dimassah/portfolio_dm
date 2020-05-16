@@ -163,8 +163,7 @@ button:focus {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
 
-/* End Gradient Area css
-============================================================================================ */
+/* End Gradient Area css=============================== */
 .primary_btn {
   display: inline-block;
   color: #fff;
@@ -209,9 +208,6 @@ button:focus {
   height: 100%;
   width: 100%; }
 
-
-/*---------------------------------------------------- */
-/*----------------------------------------------------*/
 .header_area {
   position: absolute;
   width: 100%;
