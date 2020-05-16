@@ -27,10 +27,10 @@ Author E-mail: naimlasker@gmail.com
 /*----------------------------------------------------*/
 body {
   line-height: 26px;
-  font-size: 15px;
+  font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  color: #777777;
+  color: #000000e1;
   background: url(../img/body-bg.png) no-repeat center; }
 
 h1,
@@ -209,6 +209,10 @@ button:focus {
   height: 100%;
   width: 100%; }
 
+.par_color {
+  color: #854fee;
+  font-size: 18px;
+}
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
